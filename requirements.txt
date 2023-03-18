@@ -1,0 +1,10 @@
+numpy
+torch
+timm
+pandas
+albumentations
+scikit-learn
+tqdm
+pillow
+scipy
+
